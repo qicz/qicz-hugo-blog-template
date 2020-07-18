@@ -1,0 +1,26 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>thoughts on Qicz&#39;s Thoughts HUB</title>
+   <link>https://izcqi.com/categories/thoughts/</link>
+   <description>Recent content in thoughts on Qicz&#39;s Thoughts HUB</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <managingEditor>zcq#zhucongqi.cn (Qicz)</managingEditor>
+   <webMaster>zcq#zhucongqi.cn (Qicz)</webMaster>
+   <copyright>&amp;copy; 2012 - </copyright>
+   <lastBuildDate>Fri, 03 Apr 2020 13:58:33 +0800</lastBuildDate>
+   
+       <atom:link href="https://izcqi.com/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>First Post</title>
+       <link>https://izcqi.com/posts/2020/04/03/first/</link>
+       <pubDate>Fri, 03 Apr 2020 13:58:33 +0800</pubDate>
+       <author>zcq#zhucongqi.cn (Qicz)</author>
+       <guid>https://izcqi.com/posts/2020/04/03/first/</guid>
+       <description></description>
+     </item>
+   
+ </channel>
+</rss>
