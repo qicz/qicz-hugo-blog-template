@@ -42,7 +42,7 @@
 
 - 在qicz目录下使用`hugo new posts/xxxx.md`来创建一个xxxx的文件，文件名可以自定义，其将左右文章的默认title。
 
-  > 文件名建议用中文，可以在md文件中来改成中文。
+  > 文件名不建议用中文，可以在md文件中来改成中文。
 
 - 使用`sh preview.sh` 来预览修改，console会告诉你地址，如下就是 `http://localhost:1313`
 
