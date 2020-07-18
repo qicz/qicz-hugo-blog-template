@@ -14,7 +14,7 @@
 - 登录github，配置ssh key
   - 在console中（mac，linux为terminal，windows用git console）使用命令`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`邮箱换成自己的邮箱
   - 找到用户目录下面的`.ssh`目录，将id_rsa.pub用文本工具打开，复制所有内容（mac可以用`pbcopy < id_rsa.pub`)
-  - 在https://github.com/settings/ssh/new配置ssh key，在复制的内容添加进去
+  - 在[https://github.com/settings/ssh/new](https://github.com/settings/ssh/new)配置ssh key，在复制的内容添加进去
 
 - 在github创建一个public repository名为`qicz.github.io`(注意自行替换用户名)
 
