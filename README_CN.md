@@ -25,7 +25,7 @@
   ```bash
   git clone git@github.com:qicz/qicz-hugo-blog-template.git qicz 
   cd qicz 
-  git remote add git@github.com:qicz/git-blog-cotent
+  git remote set-url origin git@github.com:qicz/git-blog-cotent
   cd public 
   git init
   git checkout -b gh-pages
