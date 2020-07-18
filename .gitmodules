@@ -1,0 +1,3 @@
+[submodule "themes/qicz-hugo-theme"]
+	path = themes/qicz-hugo-theme
+	url = git@github.com:qicz/qicz-hugo-theme.git

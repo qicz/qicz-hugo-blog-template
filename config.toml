@@ -1,0 +1,44 @@
+baseurl = "https://izcqi.com"
+title = "Qicz's Thoughts HUB"
+copyright = "&copy; 2012 - "#copyright prefix , html copyright = copyright + footer.html.copyright; footer.html.copyright= "Date.year" + author'
+#LanguageCode = "cn"
+#DefaultContentLanguage = "cn"
+canonifyurls = true
+theme = "qicz-hugo-theme"
+paginate = 10
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+# pygmentsCodefencesGuessSyntax = false
+pygmentsStyle = "dracula"
+pygmentsOptions = ['linenos']
+# pygmentsUseClasses=true
+enableRobotsTXT=true
+
+# Note: to disable a social network icon delete or comment out the corresponding line
+[author]
+    name = "Qicz"
+    github = "qicz"
+    repo = "ThoughtsHUB" # for comments
+    weibo = "powerlinux"
+    email = "zcq#zhucongqi.cn"
+    douban = "podevor"
+    #qq = "1326509178"
+    #facebook = "qiczhu"
+    #reddit = "Qiczhu"
+    #keybase = "qicz"
+    #kaggle = "qiczhu"
+
+[params]
+    tagline = "The creative and technical writing. <br> Do more, challenge more, know more, be more."
+    description = "Qicz's creative tand technical writing."
+    #images = [""] #This is used for opengraph/twitter cards.
+    customCSS = []  #Optional Customised CSS
+    favicon = "/favicon.png"
+    keywords = "Qicz,Jobsz,RD,technology,tech,learning,设计模式,分布式,架构设计,P6,P7,软件设计,数据库,大数据,MySQL,Zookeeper,MongoDB,redis,dubbo,ServiceMesh,SOFAMesh,Serverless,hugo,Java,Mybatis,Spring,Spring Boot,Spring Cloud,istio"
+
+[frontmatter]
+date = [":filename", ":default"]
+
+[permalinks]
+posts = "/posts/:year/:month/:day/:filename"
